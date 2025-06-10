@@ -1,8 +1,12 @@
 # 📄 Full Case Study Report
 
-For the complete deep-dive analysis with SQL queries, business insights, and strategy, check the full document here:
+For the complete deep-dive analysis with SQL queries, business insights, and strategy, you can now read the report directly on GitHub:
 
-👉 [Download the Full Report](./Project_Report/Target_SQL_Case_Study_Report.docx)
+👉 [View REPORT.md](./Project_Report/REPORT.md)
+
+If you prefer the original format you can still download the DOCX file:
+
+👉 [Download the DOCX](./Project_Report/Target_SQL_Case_Study_Report.docx)
 
 This project is licensed under the [MIT License](LICENSE).
 
